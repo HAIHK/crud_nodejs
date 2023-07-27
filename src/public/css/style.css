@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    border: 1px solid green;
+}
+.create-user-container{
+    padding: 15px;
+    text-align: center;
+}
+.create-user-container label{
+    display: block;
+}
+
+.create-user-container .btn-Submit{
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.update-user{
+    padding: 10px;
+    text-align: center;
+}
+
+.update-user label{
+    display: block;
+}
+
+.btn-save{
+    cursor: pointer;
+}
